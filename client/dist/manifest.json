@@ -3,6 +3,7 @@
     {
       "src": "/assets/icons/icon_512x512.png",
       "sizes": "512x512",
+      "form_factor": "wide",
       "type": "image/png"
     },
     {
@@ -28,6 +29,7 @@
     {
       "src": "/assets/icons/icon_96x96.png",
       "sizes": "96x96",
+      "form_factor": "not wide",
       "type": "image/png"
     }
   ],
